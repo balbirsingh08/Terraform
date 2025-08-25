@@ -18,3 +18,14 @@ This Terraform configuration creates an AWS S3 bucket configured for static webs
 2. Initialize Terraform:
    ```bash
    terraform init
+
+This script demonstrates:
+- ✅ Modern Terraform syntax (>=1.0)
+- ✅ AWS provider usage
+- ✅ Resource creation with proper configurations
+- ✅ Security best practices
+- ✅ Output management
+- ✅ Variable usage
+- ✅ Proper documentation
+
+Perfect for showcasing your Terraform skills on your GitHub profile!
